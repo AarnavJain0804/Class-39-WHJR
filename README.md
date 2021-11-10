@@ -1,1 +1,2 @@
-# Class-39-WHJR
+# synchronousBallMovement
+Ball moving synchronously
